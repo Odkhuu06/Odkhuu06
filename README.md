@@ -34,6 +34,7 @@
   <img src="https://img.shields.io/badge/node.js-6DA55F?logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/Prisma-3982CE?logo=Prisma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prisma-3982CE?logo=Socket.IO&logoColor=white" />
 </p>
 
 ---
